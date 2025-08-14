@@ -1,0 +1,5 @@
+pytest==8.3.3
+selenium==4.23.1
+allure-pytest==2.13.5
+faker==37.5.3
+mock-open==1.4.0
